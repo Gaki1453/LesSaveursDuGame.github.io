@@ -1,4 +1,0 @@
-git rm .github/workflows/Redbull
-
-git commit -m "Suppression du fichier de workflow Redbull"
-git push origin main
